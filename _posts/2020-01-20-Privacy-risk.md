@@ -6,17 +6,13 @@ date:       2020-01-20
 author:     Jiahao Yu
 header-img: img/post-bg-kuaidi.jpg
 catalog: true
+customjs:
+    - https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 tags:
     - CCS2019
     - Membership Inference
     - Adversarial examples
 ---
-
-<!-- <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script> -->
-
-<script type="text/javascript"
-        src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
 
 # SUMMARY
 
