@@ -18,7 +18,7 @@ tags:
 
 This paper demonstrates that an adversarially trained model is more easily exposed to membership inference attack. The author does a lot of experiments to verify this. Detailly, the contributions can be summarized as follows:
 
-- The author proposes two new inference attack algorithms based on adversarial examples. Instead of using benign data points to do the inference, the author uses untargeted and targeted adversarial examples to infer the robust model. The generated adversarial examples are constrained with $\epsilon$. Notice that here the author points out that the $\epsilon$ does not need to be the exact adversarial pertubation defined during adversarial training.
+- The author proposes two new inference attack algorithms based on adversarial examples. Instead of using benign data points to do the inference, the author uses untargeted and targeted adversarial examples to infer the robust model. The generated adversarial examples are constrained with $$\epsilon$$. Notice that here the author points out that the $$\epsilon$$ does not need to be the exact adversarial pertubation defined during adversarial training.
 
 - It verifies its claim by analysing the sensetivity of standard models and robust models. It finds that a robust model is more sensitive thus it may leak more membership infomation.
 
