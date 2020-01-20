@@ -14,6 +14,10 @@ tags:
 
 <!-- <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script> -->
 
+<script type="text/javascript"
+        src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
 # SUMMARY
 
 This paper demonstrates that an adversarially trained model is more easily exposed to membership inference attack. The author does a lot of experiments to verify this. Detailly, the contributions can be summarized as follows:
