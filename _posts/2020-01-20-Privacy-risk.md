@@ -47,5 +47,5 @@ The author does ***a lot of*** experiments that make his analyse really comprehe
 ## DISADVANTAGE:
 
 The core idea seems to be a little straightfoward. From previous work, we know that the membership inference advantage can be directly related with generalization error. The following flow is easy to know:  
-![1](../img/post1/flow.png)  
+![flow.png](https://i.loli.net/2020/01/20/XCicvqNO6ojFldB.png)  
 However, it's still very interesting to propose this theory. Maybe we can investigate some methods to guarantee a both robust and private model.
