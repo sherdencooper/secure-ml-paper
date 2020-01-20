@@ -46,12 +46,6 @@ The author does ***a lot of*** experiments that make his analyse really comprehe
 
 ## DISADVANTAGE:
 
-The core idea seems to be a little straightfoward. From previous work, we know that the membership inference advantage can be directly related with generalization error. The following flow is easy to know:
-```flow
-st=>start: Robust training
-op=>operation: Larger generalization gap
-op_2=>operation: Higher membership risk
-e=>end
-st->op->op_2->e
-```
+The core idea seems to be a little straightfoward. From previous work, we know that the membership inference advantage can be directly related with generalization error. The following flow is easy to know:  
+![1](../img/post1/flow.png)  
 However, it's still very interesting to propose this theory. Maybe we can investigate some methods to guarantee a both robust and private model.
