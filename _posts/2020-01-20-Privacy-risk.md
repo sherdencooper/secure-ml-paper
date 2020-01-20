@@ -35,7 +35,7 @@ This paper demonstrates that an adversarially trained model is more easily expos
 
 - Some tips are given to defend such attack, like temperature scaling and regularization.
 
-- The author claims that pixel dp is also exposed to such threats. Instead
+- The author claims that pixel dp is also exposed to such threats. 
 
 
 # MY OPINION
