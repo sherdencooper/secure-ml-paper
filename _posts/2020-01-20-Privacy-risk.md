@@ -1,5 +1,6 @@
 ---
 layout:     post
+mathjax: true
 title:      Pricavy Risks of Securing Machine Learning Models against Adversarial Examples
 # subtitle:   如何切换Xcode命令行工具
 date:       2020-01-20
